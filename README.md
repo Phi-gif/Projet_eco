@@ -4,7 +4,7 @@ Horaire de taf : vendredi après-midi
 
 Plan du rapport de projet
  
- [ ] I-		Introduction (sujet, problématique, modèle, base de données)
+ [x] I-		Introduction (sujet, problématique, modèle, base de données)
  
 		--> Philippine
 
