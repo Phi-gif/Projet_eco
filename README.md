@@ -1,27 +1,30 @@
-# Projet_eco
+# UE-6 Métiers - Econométrie de l'évaluation 1 - Econométrie des choix discrets approfondie [5]
 
-Horaire de taf : vendredi après-midi
-Plan du rapport de projet (proposition)
- 
- [ ] I-		Introduction (sujet, problématique, modèle, base de données)
-		--> Philippine
+Horaire de taf : Vendredi après-midi
 
- [x] II-	Théorie du modèle (modèle de comptage)
+Plan du rapport de projet
 
- [ ] III-	Explication base de données (variables exogènes gardées et construction variable endogène)
-		--> Carlos
+[x] I-		Introduction (sujet, problématique, modèle, base de données)
 
- [ ] IV-	Codes et interprétations (sorties sas + interprétations des coefficients et des probas)
-		--> Philippine (codes et sorties) et Lindor (interprétations)
+			--> Philippine
 
- [ ] V-		Conclusion (réponse à la problématique)		
-		--> Lindor
- 
-Rédaction du rapport : Carlos
+[x] II-		Théorie du modèle (modèle de comptage)
 
-Variables exogène : à choisir (ACP ?) / jour de tirage (à recoder en 0 et 1) / nb_grilles_jouées 
+			--> Philippine
 
-Variable endogène : compter le nombre d'étoile qui vaut 10 ou plus (1-12)
-si aucune étoile est une dizaine --> Y = 0
-si une des deux etoiles une dizaine --> Y = 1
-si 2 étoiles = dizaine --> Y = 2
+[x] III-	Explication base de données (variables exogènes gardées et construction variable endogène)
+
+			--> Carlos
+
+[ ] IV-		Codes et interprétations (sorties sas + interprétations des coefficients et des probas)
+
+			--> Philippine (codes et sorties)
+			--> Lindor (interprétations)
+
+[ ] V-		Conclusion (réponse à la problématique)
+
+			--> Lindor
+
+[ ] VI-		Rédaction du rapport
+
+			--> Carlos
